@@ -1,0 +1,24 @@
+{
+  "name": "root-installer",
+  "version": "1.0.0",
+  "description": "A package to install from a root directory that contain various repos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "installer",
+    "install",
+    "repos",
+    "repositories"
+  ],
+  "author": "Yorgos Kakavas",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Falenos/installator.git"
+  }
+}
